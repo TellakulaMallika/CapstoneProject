@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8JGQWzxBhNVM3li7CaU3pXONUguccwVneIf1FGzdQ8gmQmV8Dw5FQF7h5ucSrwFk1AmC/qDoznlNBgOjLJVILw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sss\\source\\repos\\DataAccessLayer\\BlogLibrary\\BlogLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sss\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

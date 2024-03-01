@@ -1,0 +1,17 @@
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\BlogLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\BlogLibrary.AssemblyInfoInputs.cache
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\BlogLibrary.AssemblyInfo.cs
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\BlogLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\BlogLibrary.deps.json
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\BlogLibrary.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\bin\Debug\net6.0\BlogLibrary.pdb
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\BlogLibrary.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\refint\BlogLibrary.dll
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\BlogLibrary.pdb
+C:\Users\sss\source\repos\DataAccessLayer\BlogLibrary\obj\Debug\net6.0\ref\BlogLibrary.dll
